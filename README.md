@@ -1,2 +1,2 @@
-# Pokemon_Project
-Data Analysis on Pokemon 
+# Samle Data Analysis Project
+Data Analysis on Example Pokemon Dataset
